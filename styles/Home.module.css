@@ -1,8 +1,9 @@
 .title {
-  color: white;
-  background-color: black;
+  color: black;
+  background-color: #ffe4e1;
   background-size: cover;
   background-position: center;
   padding: 20px;
   margin-bottom: 20px;
+  font-size: 25px;
 }
