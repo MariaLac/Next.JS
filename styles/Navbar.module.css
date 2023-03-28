@@ -1,11 +1,12 @@
 .navbar{
     display: flex;
-    background-color: black;
+    background-color: #ff8097;
     padding: 20px 10px;
+    font-size: 30px;
 }
 
 .navbar a{
-    color:aliceblue;
+    color: white;
     margin-right: 1em;
     text-decoration: none;
     transition: 0.3s;
